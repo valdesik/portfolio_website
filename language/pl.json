@@ -1,0 +1,40 @@
+{
+  "page.home.head.title": "Główna",
+  "page.home.head.mainText": "Budowanie Twoich pragnień to moja praca",
+  "page.home.head.btn": "Kontakty",
+  "page.home.head.resume": "Resume",
+  "page.home.head.description": "Jako doświadczony developer zajmuję się przekształcaniem pomysłów w innowacyjne aplikacje internetowe. Buduję projekty w Laravel i React.",
+  "nav.home": "Główna",
+  "nav.about": "O mnie",
+  "nav.projects": "Projekty",
+  "nav.contacts": "Kontakty",
+  "page.home.footer.sayHello": "przywitać się",
+  "page.about.head.title": "O mnie",
+  "page.about.head.mainText": "Passion Fuels Purpose!",
+  "page.about.head.titleText": "Biography",
+  "page.about.head.description.part1": "  - Hi, I'm CodeBucks, a web developer and UI/UX designer with a passion for creating\n                                beautiful, functional,\n                                and user-centered digital experiences. With 4 years of experience in the field. I am\n                                always looking for\n                                new and innovative ways to bring my clients' visions to life.",
+  "page.about.head.description.part2": " - I believe that design is about more than just making things look pretty – it's about\n                                solving problems and\n                                creating intuitive, enjoyable experiences for users.",
+  "page.about.head.description.part3": "- Whether I'm working on a website, mobile app, or\n                                other digital product, I bring my commitment to design excellence and user-centered\n                                thinking to\n                                every project I work on. I look forward to the opportunity to bring my skills and\n                                passion to your next project.",
+
+  "page.about.head.goal.part1": "satisfied clients",
+  "page.about.head.goal.part2": "project completed",
+  "page.about.head.goal.part3": "years of experience",
+  "page.about.head.skills.title": "Skills",
+  "page.about.head.experience.title": "Experience",
+  "page.about.head.education.title": "Education",
+
+  "page.about.projects.title": "Projects",
+  "page.about.projects.mainText": "Imagination Trumps Knowledge!",
+
+  "page.about.contacts.title": "Contact",
+  "page.about.contacts.mainText": "Contact me!",
+
+  "form.title": "Tell Me about your project",
+  "form.fullName": "Full Name",
+  "form.email": "Email",
+  "form.phone": "Phone",
+  "form.question": "How can we get in touch with you?",
+  "form.messenger": "Messenger",
+  "form.message": "Your Message",
+  "form.submit": "Submit"
+}
